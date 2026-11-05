@@ -16,8 +16,10 @@ Tap a store link, or scan **one QR at a time**.
 
 Draw the wind. Land the seeds. 2400 garden puzzles from Easy to Hard.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.tranbang.drift) · App Store — coming soon
+[App Store](https://apps.apple.com/us/app/drift-wind-seeds/id6825254505) · [Google Play](https://play.google.com/store/apps/details?id=com.tranbang.drift)
 
+<img src="qr/drift-ios.png" width="120" height="120" alt="QR code for Drift on the App Store">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="qr/drift-android.png" width="120" height="120" alt="QR code for Drift on Google Play">
 
 ---
@@ -80,7 +82,7 @@ Game giải đố chơi được offline. Tiến trình lưu trên máy. Quảng
 
 | | Game | Cửa hàng |
 | --- | --- | --- |
-| <img src="icons/drift.png" width="36" height="36" alt=""> | **Drift - Wind Seeds** — vẽ gió, đưa hạt bồ công anh vào vườn | [Google Play](https://play.google.com/store/apps/details?id=com.tranbang.drift) |
+| <img src="icons/drift.png" width="36" height="36" alt=""> | **Drift - Wind Seeds** — vẽ gió, đưa hạt bồ công anh vào vườn | [App Store](https://apps.apple.com/us/app/drift-wind-seeds/id6825254505) · [Google Play](https://play.google.com/store/apps/details?id=com.tranbang.drift) |
 | <img src="icons/number-weave.png" width="36" height="36" alt=""> | **Number Weave** — kéo một đường qua lưới số cho đúng TARGET | [App Store](https://apps.apple.com/us/app/number-weave/id6819508757) · [Google Play](https://play.google.com/store/apps/details?id=com.numberweave.number_weave) |
 | <img src="icons/one-line-maze.png" width="36" height="36" alt=""> | **One Line Maze** — vẽ một đường, dẫn bóng, tránh chướng ngại | [App Store](https://apps.apple.com/us/app/one-line-maze-puzzle/id6819576035) · [Google Play](https://play.google.com/store/apps/details?id=com.onelinemaze.one_line_maze) |
 | <img src="icons/weight-balance.png" width="36" height="36" alt=""> | **Weight Balance** — puzzle thăng bằng | [Google Play](https://play.google.com/store/apps/details?id=com.weightbalance.weight_balance) |
