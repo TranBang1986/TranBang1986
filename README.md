@@ -48,6 +48,16 @@ Place towers on a grid. Hold the route through endless waves.
 
 ---
 
+## Block Stack
+
+<img src="icons/block-stack.png" width="64" height="64" alt="Block Stack icon">
+
+Endless Marathon, drag-and-drop Block Blast, and color chains.
+
+App Store and Google Play — coming soon
+
+---
+
 ## Number Weave
 
 <img src="icons/number-weave.png" width="64" height="64" alt="Number Weave icon">
@@ -109,6 +119,7 @@ Game giải đố chơi được offline. Tiến trình lưu trên máy. Quảng
 | <img src="icons/drift.png" width="36" height="36" alt=""> | **Drift - Wind Seeds** — vẽ gió, đưa hạt bồ công anh vào vườn | [App Store](https://apps.apple.com/us/app/drift-wind-seeds/id6825254505) · [Google Play](https://play.google.com/store/apps/details?id=com.tranbang.drift) |
 | <img src="icons/gridbound-defense.png" width="36" height="36" alt=""> | **Gridbound Defense** — đặt tháp trên lưới, giữ đường địch qua các wave | [Google Play](https://play.google.com/store/apps/details?id=com.tranbang.gridbound_defense) |
 | <img src="icons/chop-chop-quiz.png" width="36" height="36" alt=""> | **Chớp Chớp Quiz** — đố vui 120 giây, đúng +1 sao, sai về 0 | [Google Play](https://play.google.com/store/apps/details?id=com.tranbang.chop_chop_quiz) |
+| <img src="icons/block-stack.png" width="36" height="36" alt=""> | **Block Stack** — Marathon, Block Blast kéo thả, Gạch ăn màu | App Store / Google Play — sắp ra mắt |
 | <img src="icons/number-weave.png" width="36" height="36" alt=""> | **Number Weave** — kéo một đường qua lưới số cho đúng TARGET | [App Store](https://apps.apple.com/us/app/number-weave/id6819508757) · [Google Play](https://play.google.com/store/apps/details?id=com.numberweave.number_weave) |
 | <img src="icons/one-line-maze.png" width="36" height="36" alt=""> | **One Line Maze** — vẽ một đường, dẫn bóng, tránh chướng ngại | [App Store](https://apps.apple.com/us/app/one-line-maze-puzzle/id6819576035) · [Google Play](https://play.google.com/store/apps/details?id=com.onelinemaze.one_line_maze) |
 | <img src="icons/weight-balance.png" width="36" height="36" alt=""> | **Weight Balance** — puzzle thăng bằng | [Google Play](https://play.google.com/store/apps/details?id=com.weightbalance.weight_balance) |
